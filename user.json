@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "prabhakar",
+      "email": "prabha@gmail.com",
+      "mobile": "7202672530",
+      "id": 1
+    },
+    {
+      "name": "sreekanth",
+      "email": "sreek@gmail.com",
+      "mobile": "76554332310",
+      "id": 3
+    }
+  ]
+}
